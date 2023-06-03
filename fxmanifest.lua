@@ -1,5 +1,6 @@
 author "officerInSpeck#8630"
 description "Umgeschrieben Von Dezi"
+version "2.0"
 
 client_scripts{
   'client.lua',
